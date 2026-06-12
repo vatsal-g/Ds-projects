@@ -1,1 +1,1 @@
-# First-sem-project-
+Built a machine learning model using Python and Scikit-Learn to predict student placement outcomes based on academic metrics such as CGPA. Performed data preprocessing, model training, evaluation, and performance analysis.
